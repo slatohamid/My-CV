@@ -2,7 +2,7 @@
 
 https://slatohamid.github.io/My-CV/
 
-![CV Preview](/home/slatoha/Desktop/Becode/My-CV/image/)
+![CV Preview](/home/slatoha/Desktop/Becode/My-CV/imagecv/Preview.png)
 
 1. add hovers for links
 2. court
