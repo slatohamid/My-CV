@@ -4,14 +4,7 @@ https://slatohamid.github.io/My-CV/
 
 ![CV Preview](/home/slatoha/Desktop/Becode/My-CV/imagecv/Preview.png)
 
-1. add hovers for links
-2. court
-3. remove future
-4. articles left side
-5. sections right side
-6. implement code js to percent
-
-## Links used to creat this CV
+## Links used to create this CV
 
 **Icons**
 
