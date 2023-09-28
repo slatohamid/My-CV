@@ -2,8 +2,6 @@
 
 https://slatohamid.github.io/My-CV/
 
-![CV Preview](/home/slatoha/Desktop/Becode/My-CV/imagecv/Preview.png)
-
 ## Links used to create this CV
 
 **Icons**
