@@ -1,7 +1,7 @@
 ## MY CV
 
-https://slatohamid.github.io/My-CV/
-![Screenshot](https://github.com/slatohamid/My-CV/assets/117818692/503037df-ee76-4921-a901-0dc0d1491bd8)
+- https://slatohamid.github.io/My-CV/
+- ![Screenshot](https://github.com/slatohamid/My-CV/assets/117818692/503037df-ee76-4921-a901-0dc0d1491bd8)
 
 ## Links used to create this CV
 
